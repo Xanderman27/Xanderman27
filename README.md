@@ -1,38 +1,64 @@
-# Alex Hulet
+<h1 align="center">Alex Hulet</h1>
 
-Data Science and Economics student at the University of Utah, interested in data engineering, statistical analysis, and applied machine learning. I work primarily in Python and SQL, with experience building production data pipelines, monitoring systems, and analytics projects.
+<p align="center">
+  Data Science + Economics at the University of Utah<br>
+  Python, SQL, data pipelines, NLP, and visualization
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alex-hulet"><img src="https://img.shields.io/badge/LinkedIn-Alex_Hulet-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:alex.hulet@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+## About
+
+I am an Honors College student focused on data engineering, statistical analysis, and applied machine learning. My recent work includes production web data acquisition, monitoring systems, text classification, and analytical dashboards.
 
 ## Experience
 
-At **Storied**, I redesigned a digital newspaper acquisition pipeline and deployed more than 100 web scrapers on company servers. The new system cut content acquisition costs by over 50% and supports revenue streams exceeding $1 million. I also built a Cloudflare Workers and PostgreSQL monitoring dashboard that tracks more than 5 million PDF downloads.
+**Data Science Intern, Storied** | May 2025 - Present
+
+- Redesigned a digital newspaper acquisition pipeline and deployed more than 100 web scrapers on company servers.
+- Cut content acquisition costs by over 50% while supporting revenue streams exceeding $1 million.
+- Built a Cloudflare Workers and PostgreSQL monitoring dashboard covering more than 5 million PDF downloads.
+- Migrated scraping infrastructure to a remote Windows server for reliable 24/7 operation.
 
 ## Selected work
 
-- **Game Day Analytics Challenge:** Placed 3rd of 39 teams by analyzing Super Bowl advertising performance using social data. Applied RoBERTa and zero-shot classification to evaluate sentiment and brand-level KPIs across more than 50 advertisers.
-- **Intermountain Healthcare Generative AI Hackathon:** Placed 2nd of 41 teams after building a healthcare inventory and demand dashboard in six hours. The project included authentication, accessibility features, and data visualizations.
-- **Notescribr:** Built and deployed a web application that adds guitar tablature to standard sheet music, with a FastAPI backend, SQLite database, and Stripe-based payments.
+- **[CCHOS](https://github.com/Xanderman27/CCHOS) | Intermountain Healthcare Generative AI Hackathon:** Placed 2nd of 41 teams after building a healthcare ordering, inventory, and demand dashboard in six hours. Built with Next.js, TypeScript, SQLite, and Recharts.
+- **Game Day Analytics Challenge:** Placed 3rd of 39 teams by analyzing Super Bowl advertising performance across more than 50 brands. Used RoBERTa and zero-shot classification for sentiment analysis, then presented the resulting KPIs to judges.
+- **Notescribr:** Built and deployed a FastAPI and SQLite application that adds guitar tablature to standard sheet music, including Stripe payments and webhooks.
 
-## Technical toolkit
+## Data stack
 
-| Area | Tools |
-| --- | --- |
-| Programming | Python, SQL, C#, Java |
-| Data analysis | pandas, NumPy, SciPy, Statsmodels |
-| Visualization | Matplotlib, Seaborn, Recharts |
-| Data systems | PostgreSQL, SQLite, web scraping, data cleaning |
-| Development | Git, Linux, FastAPI, Cloudflare Workers |
+**Analysis and modeling**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4051B5?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
+**Data and development**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+Also comfortable with C# and Java.
 
 ## Education
 
 **University of Utah Honors College**
 
-B.S. in Data Science and Economics, Chinese minor; expected May 2029
+- B.S. double major in Data Science and Economics, Chinese minor; expected May 2029
+- 4.0 GPA; three-time Dean's List; Flagship Scholar
+- Coursework in data analysis, data wrangling, data structures and algorithms, and discrete structures
 
-4.0 GPA; three-time Dean's List; Flagship Scholar
-
-Relevant coursework: Data Analysis, Data Wrangling, Data Structures and Algorithms, and Discrete Structures.
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/alex-hulet)
-- [alex.hulet@gmail.com](mailto:alex.hulet@gmail.com)
+Outside data, I play classical and electric guitar and study Chinese, Spanish, and Catalan.
